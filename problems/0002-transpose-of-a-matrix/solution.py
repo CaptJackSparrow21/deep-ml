@@ -1,6 +1,7 @@
 import numpy as np
 
-def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
+# def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
+def transpose_matrix(a) :
     """
     Transpose a 2D matrix by swapping rows and columns.
     
