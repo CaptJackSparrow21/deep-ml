@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:46:22.633Z",
+  "generated_at": "2026-10-15T17:14:55.567Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -232,6 +232,19 @@
       "path": "problems/0035-convert-vector-to-diagonal-matrix",
       "first_solved_at": "2026-10-14T16:46:21.885Z",
       "last_pushed_at": "2026-10-14T16:46:21.885Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-10-15T17:14:54.800Z",
+      "last_pushed_at": "2026-10-15T17:14:54.800Z",
       "language": "python",
       "lines": 4
     }
