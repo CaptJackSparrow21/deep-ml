@@ -16,21 +16,17 @@ import numpy as np
 def linear_regression_gradient_descent(X, y, alpha,iterations) :
     
     m, n = X.shape
-    y = y.reshape(-1, 1)  # Ensure y is a column vector
-    theta = np.zeros((n, 1))  # Initialize weights to zeros
+    y = y.reshape(-1, 1)  
+    theta = np.zeros((n, 1))  
 
     for _ in range(iterations):
 
-        # 1. Calculate predictions
         predictions = X @ theta
 
-        # 2. Calculate error
         error = predictions - y
 
-        # 3. Calculate gradient
         gradient = (X.T @ error) / m
 
-        # 4. Update weights
         theta = theta - alpha * gradient
 
 
