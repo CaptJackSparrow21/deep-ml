@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 25 problems · 0 labs · 0 math
+**26** solved · 26 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-06 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-20 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-19 | [solution](problems/0046-implement-precision-metric) |
+| [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-10-22 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-17 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-10-18 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-16 | [solution](problems/0039-implementation-of-log-softmax-function) |
