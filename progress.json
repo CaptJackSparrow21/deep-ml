@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T11:55:25.016Z",
+  "generated_at": "2026-11-11T15:45:19.699Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -640,6 +640,19 @@
       "last_pushed_at": "2026-11-10T11:55:24.012Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-11-11T15:45:18.656Z",
+      "last_pushed_at": "2026-11-11T15:45:18.656Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
